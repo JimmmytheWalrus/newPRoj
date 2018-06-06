@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=World
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p\ level
+comment2.target=void\ encounter(Player,\ int)
+comment3.params=p\ count
+comment3.target=void\ bossEncounter(Player,\ int)
+numComments=4
